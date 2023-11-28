@@ -2,7 +2,7 @@
 Module 15 - Mapping Challenge
 
 # Description
-Visualizations of earthquake data using HTML and Javascript.
+Visualizations of earthquake data from the United States Geological Survey (USGS) using HTML and Javascript.
 
 # Instructions
 - See `Leaflet-Part-1` folder for visualization of earthquakes
